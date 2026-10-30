@@ -10,7 +10,7 @@ from faker import Faker
 
 BOOTSTRAP_SERVERS = "localhost:9092"
 TOPIC_NAME = "events_topic"
-USER_KEYS = ["user_1", "user_2", "user_3"]
+USER_KEYS = ["user_1", "user_2", "user_3", "user_4"]
 INTERVAL_SECONDS = 5
 
 logging.basicConfig(

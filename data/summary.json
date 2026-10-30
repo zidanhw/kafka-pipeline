@@ -1,17 +1,22 @@
 [
   {
     "user_key": "user_1",
-    "event_count": 21,
-    "total_amount": 4309.21
+    "event_count": 9,
+    "total_amount": 2651.53
   },
   {
     "user_key": "user_2",
-    "event_count": 36,
-    "total_amount": 8446.32
+    "event_count": 5,
+    "total_amount": 1511.61
   },
   {
     "user_key": "user_3",
-    "event_count": 30,
-    "total_amount": 7960.8
+    "event_count": 7,
+    "total_amount": 1627.23
+  },
+  {
+    "user_key": "user_4",
+    "event_count": 7,
+    "total_amount": 1228.27
   }
 ]
